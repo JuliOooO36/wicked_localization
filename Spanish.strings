@@ -1,0 +1,186 @@
+"LICENSE/PURCHASE/DONATE_SECTION" = "licencia/comprar/donar";
+"PURCHASE_TITLE" = "Click para Comprar/Mejorar Licencia";
+"PURCHASE_TEXT" = "Únete al discord y crea un ticket en #wicked-purchase para la verificación manual. Piratear wicked puede conducir al baneo permanente de tu cuenta/dispositivo";
+"PURCHASE_NAME" = "Comprar";
+"DONATE_TITLE" = "Click para donar";
+"DONATE_TEXT" = "Hemos trabajado muy duro en este tweak, si quieren que esté siempre actualizado, por favor asegúrense de donar. Esto aseguro el tiempo de vida de Wicked.";
+"DONATE_NAME" = "Donar";
+
+"SAVE/UPLOAD/SEEN_SECTION" = "guardar/cargar/visto";
+"ALTSAVE_TITLE" = "Suprimir Guardar en rollo de cámara";
+"ALTSAVE_TEXT" = "Suprima la notificación para guardar medios en el carrete de la cámara desde el chat. Permite guardar lotes. (Funciona solo dentro del chat)";
+"UPLOADBUTTON_TITLE" = "Botón de carga";
+"UPLOADBUTTON_TEXT" = "Muestre un botón sobrepuesto para cargar medios (requiere reiniciar).";
+"IMAGEEDITOR_TITLE" = "Editor de Imagen";
+"IMAGEEDITOR_TEXT" = "Editor de imágenes incorporado al cargar imágenes.";
+"SAVEBUTTON_TITLE" = "Botón de guardado";
+"SAVEBUTTON_TEXT" = "Muestre un botón sobrepuesto para guardar medios.";
+"SAVEINFOLDER_TITLE" = "Guardar Snaps en Carpeta";
+"SAVEINFOLDER_TEXT" = "Guarde snaps en una carpeta organizada por nombres de usuario en lugar de galería.";
+"OPENFILES_TITLE" = "Abrir Carpeta";
+"OPENFILES_TEXT" = "Abrir la carpeta de snaps guardadas";
+"OPENFILES_NAME" = "Abrir";
+"SEENBUTTONSNAP_TITLE" = "Botón Visto Para Snaps";
+"SEENBUTTONSNAP_TEXT" = "Muestre un botón sobrepuesto para marcar los snaps como vistos.";
+"SEENBUTTONSTORY_TITLE" = "Botón Visto Para Historias";
+"SEENBUTTONSTORY_TEXT" = "Muestre un botón sobrepuesto para marcar historias como vistas.";
+"CLOSESEEN_TITLE" = "Omitir en Visto";
+"CLOSESEEN_TEXT" = "Saltar al siguiente snap cuando esté marcado como visto. O bien, al presionar el botón nuevamente se marcará como no visto.";
+"MARKFRIENDS_TITLE" = "Historias Auto-Vistas";
+"MARKFRIENDS_TEXT" = "Marcar automáticamente todas las historias de los que no son nuestros amigos como vistas.";
+
+"AUDIO_SECTION" = "audio";
+"AUDIO_NOTE_TITLE" = "Cargar Nota de Voz";
+"AUDIO_NOTE_TEXT" = "Toque el botón de nota de voz para cargar notas de voz.";
+"SAVEAUDIO_TITLE" = "Guardar Mensajes de Voz";
+"SAVEAUDIO_TEXT" = "Presiona mensaje de audio para guardar en archivos";
+
+"CHAT_SECTION" = "chat";
+"AUTOSAVECHAT_TITLE" = "Auto Guardar Chat";
+"AUTOSAVECHAT_TEXT" = "Guarda automáticamente todos los chats/media";
+"AUTOSAVECHAT+SNAP_TITLE" = "Auto Guardar Snaps";
+"AUTOSAVECHAT+SNAP_TEXT" = "Guarda automáticamente todos los snaps en el chat. (Requiere que Auto Guardar Chat esté habilitado)";
+"CHATGHOST_TITLE" = "Chat Fantasma";
+"CHATGHOST_TEXT" = "Abre el chat sin marcar los mensajes como vistos. La presencia de Bitmoji también está deshabilitada cuando esta opción está activada";
+"WICKED.DELETIONS.MASTER_TITLE" = "Ignorar Chats Eliminados";
+"WICKED.DELETIONS.MASTER_TEXT" = "Impedir que se eliminen los chats";
+"WICKED.DELETIONS.COLOR_TITLE" = "Color de Chat Eliminado";
+"WICKED.DELETIONS.COLOR_TEXT" = "Color para chats eliminados";
+"TYPING_TITLE" = "Suprimir Notificación de Escritura";
+"TYPING_TEXT" = "Suprimir notificación de escritura al escribir en el chat.";
+"BITMOJISPOOF_TITLE" = "Sin presencia de Bitmoji";
+"BITMOJISPOOF_TEXT" = "No mostrar la presencia de bitmoji en el chat.";
+"CELLSWIPE_TITLE" = "Deslizar Chat";
+"CELLSWIPE_TEXT" = "Desliza cualquier parte del chat para abrirlo.";
+
+"RECORDING/SCREENSHOTS_SECTION" = "grabación/capturas de pantalla";
+"SCREENSHOTCONFIRM_TITLE" = "Confirmar Captura de Pantalla";
+"SCREENSHOTCONFIRM_TEXT" = "Mostrar un cuadro de diálogo de confirmación para enviar notificaciones de capturas de pantalla.";
+"SCREENRECORD_TITLE" = "Suprimir Grabación de Pantalla";
+"SCREENRECORD_TEXT" = "Suprimir notificación de grabación de pantalla.";
+"SCREENSHOT_TITLE" = "Suprimir Captura de Pantalla";
+"SCREENSHOT_TEXT" = "Suprimir notificación de captura de pantalla.";
+"SCREENSHOTBTN_TITLE" = "Botón de Capturar Pantalla";
+"SCREENSHOTBTN_TEXT" = "Muestre un botón sobrepuesto para enviar una notificación de captura de pantalla.";
+
+"SPOOF_SECTION" = "Falsificación";
+"SPOOFADDED_TITLE" = "Falsificar Añadido Por Búsqueda";
+"SPOOFADDED_TEXT" = "Cuando se agreguen personas por búsqueda, les aparecerá como agregado por añadido fácil";
+"LOCATION_TITLE" = "Ubicación Falsa";
+"LOCATION_TEXT" = "Use el selector de ubicación a continuación para cambiar la ubicación.";
+"PICKLOCATION_TITLE" = "Elegir Ubicación";
+"PICKLOCATION_TEXT" = "Elija la ubicación en el mapa (requiere habilitar la ubicación falsa).";
+"PICKLOCATION_NAME" = "Elegir";
+"TELEPORT_TITLE" = "Teletransportarse a Amigos";
+"TELEPORT_TEXT" = "Toque a un amigo en el SnapMap para teletransportarse a ellos.";
+"SPOOFVIEWS_TITLE" = "Falsificar Vistas de Historias";
+"SPOOFVIEWS_TEXT" = "Ingrese un número para falsificar las vistas de la historia (déjelo en blanco para deshabilitarlo).";
+"SPOOFSC_TITLE" = "Falsificar Capturas de Pantalla de Historias";
+"SPOOFSC_TEXT" = "Ingrese un número para falsificar capturas de pantalla de la historia (déjelo en blanco para deshabilitar).";
+
+"WICKED INTERFACE_SECTION" = "interfaz wicked";
+"HIDEICONS_TITLE" = "Deshabilitar Iconos";
+"HIDEICONS_TEXT" = "Deshabilite el icono de configuración/cuenta personalizada para ocultar la presencia de wicked (requiere reiniciar).";
+"BUTTONSIZE_TITLE" = "Tamaño del Botón";
+"BUTTONSIZE_TEXT" = "Tamaño de todos los botones";
+"LOCKBUTTONS_TITLE" = "Bloquear Botones";
+"LOCKBUTTONS_TEXT" = "Bloquea la posición de los botones y desactiva el movimiento.";
+"RESETLAYOUT_TITLE" = "Reiniciar Diseño de Botones";
+"RESETLAYOUT_TEXT" = "Restaure las posiciones de los botones a la configuración predeterminada.";
+"RESETLAYOUT_NAME" = "Reiniciar";
+"BUTTONCOLOR_TITLE" = "Color de botón";
+"BUTTONCOLOR_TEXT" = "Cambiar el color de todos los botones wicked.";
+"BUTTONSHADOWCOLOR_TITLE" = "Color del botón sombra";
+"BUTTONSHADOWCOLOR_TEXT" = "Cambiar color de sombra de todos los botones wicked.";
+
+"SNAPCHAT INTERFACE_SECTION" = "Interfaz snapchat";
+"ICONSWAP_TITLE" = "Cambiar Ícono";
+"ICONSWAP_TEXT" = "Cambiar ícono de la aplicación.";
+"ICONSWAP_NAME" = "Elegir";
+"HIDENEWCHAT_TITLE" = "Ocultar Botón de Chat Nuevo";
+"HIDENEWCHAT_TEXT" = "Oculte el botón azul en la parte inferior de las versiones recientes de la interfaz de usuario.";
+"NOMAPSWIPING_TITLE" = "No Deslizar a Mapa";
+"NOMAPSWIPING_TEXT" = "Deshabilita deslizar a SnapMap.";
+"OPENURL_TITLE" = "Abrir Enlace Predeterminado";
+"OPENURL_TEXT" = "Abre enlaces en el chat usando Safari.";
+"HIDECALL_TITLE" = "Ocultar Botones de Llamada";
+"HIDECALL_TEXT" = "Ocultar los botones de llamada en el chat.";
+"DISCOVER_TITLE" = "Ocultar Descubre";
+"DISCOVER_TEXT" = "Elimina la sección Descubre historias.";
+"QUICKADD_TITLE" = "Oculta Añadido Fácil";
+"QUICKADD_TEXT" = "Elimina la sección Añadido fácil de la página de chat.";
+"LOOPING_TITLE" = "Media en Bucle";
+"LOOPING_TEXT" = "El contenido se repetirá en lugar de saltar al siguiente.";
+
+"MISC_SECTION" = "varios";
+"CALLCONFIRM_TITLE" = "Confirmar Llamadas";
+"CALLCONFIRM_TEXT" = "Muestra un cuadro de diálogo de confirmación antes de realizar llamadas.";
+"SHOWBANNERS_TITLE" = "Mostrar Banners";
+"SHOWBANNERS_TEXT" = "Habilite las notificaciones de banners para algunas interacciones (guardar, marcar como visto).";
+"SAVEHAX_TITLE" = "Mantener Snaps Enviados";
+"SAVEHAX_TEXT" = "Los snaps enviados se mostrarán solo en su lado del chat, por lo que puede saber qué instantáneas ha enviado.";
+
+"EXPERIMENTS (NO SUPPORT)_SECTION" = "experimentos (No hay soporte)";
+"SCSPAM_TITLE" = "Spam Capturas de Pantalla";
+"SCSPAM_TEXT" = "Spam 100 capturas de pantalla en el chat (botón de la cámara en la barra de texto para activar)";
+"NOMOJI_TITLE" = "No Bitmojis";
+"NOMOJI_TEXT" = "No renderizar bitmojis";
+"NOADS_TITLE" = "Desactivar Anuncios";
+"NOADS_TEXT" = "Bloquea todos los anuncios de Snapchat.";
+"SCTESTING_TITLE" = "Habilitar Experimentos";
+"SCTESTING_TEXT" = "Habilite todos los experimentos de Snapchat (como las cosas de la interfaz de usuario)";
+"WICKED.SPOOFING.SCRAMBLE_TITLE" = "Aleatorizar a los Mejores Amigos";
+"WICKED.SPOOFING.SCRAMBLE_TEXT" = "Cambia aleatoriamente el orden de la lista de mejores amigos.";
+"FRIENDMOJI_TITLE" = "Esconder Friendmoji";
+"FRIENDMOJI_TEXT" = "Oculte los friendmojis en la página de chat (no Bitmoji. Requiere tirar hacia abajo para actualizar).";
+"NOTISPOOF_TITLE" = "Falsificar Badge";
+"NOTISPOOF_TEXT" = "Ingrese un número para falsificar el número del badge la aplicación. Salga de la aplicación para ver los cambios, si tiene Snapchat en segundo plano, no funcionará, debe salir de la aplicación cada vez que quiera falsificar el recuento del badge. (Dejar en blanco para deshabilitar).";
+
+"ACTIONS_SECTION" = "acciones";
+"RESET_TITLE" = "Restablecer Todas las Configuraciones de Wicked";
+"RESET_TEXT" = "Requiere cerrar y abrir Snapchat.";
+"RESET_NAME" = "Reiniciar";
+
+"ICON_SELECTION_NAV" = "Selección de Íconos";
+"LOCATION_PICKER_NAV" = "Selector de Ubicación";
+"LOCATION_PICKER_NAV_BTN" = "Guardar";
+
+"SETTINGS" = "Ajustes";
+
+"QUICK_BTN_CG_ON" = "Encendido";
+"QUICK_BTN_CG_OFF" = "Apagado";
+"QUICK_BTN_ORIGINAL" = "Opciones de chat (Original)";
+"QUICK_BTN_LOG_OUT" = "Cerrar sesión";
+
+"BANNER_SEEN" = "Marcando como VISTO";
+
+"CALLCONFIRM_TITLE" = "Confirmar Llamada";
+"CALLCONFIRM_BTN_TEXT" = "Llamar";
+
+"BACK" = "Atrás";
+
+"SAVEVN_TITLE" = "Guardar Nota de Voz";
+"SAVEVN_YES" = "Guardar Nota de Audio";
+"SAVEVN_NO" = "Default";
+
+"UPLOADVN_TITLE" = "Cargar Nota de Voz";
+"UPLOADVN_YES" = "Archivos";
+"UPLOADVN_NO" = "Galeria";
+
+"BANNER_SAVE" = "Snap Guardado!";
+"BANNER_LOCATION" = "¡Configurando el pin guardado como su ubicación! 📍";
+
+"WARNING_TITLE" = "¡Advertencia!";
+"WARNING_TEXT" = "Esto restablecerá todas las configuraciones a sus valores predeterminados y cerrará la aplicación. ¿Está bien?";
+
+"SCREENSHOT" = "Captura de Pantalla";
+"SC_CONFIRM_YES" = "Suprimir";
+
+"LICENSE_PLACEHOLDER" = "Ingrese Licencia";
+"EMAIL_PLACEHOLDER" = "Ingrese Correo Electrónico";
+"FETCH_LICENSE" = "Obtener Licencia";
+"LICENSE_INFO" = "La aplicación se cerrará después de intentar autenticar su licencia. Si no está autenticado, asegúrese de escribir su información correctamente.";
+"BUY" = "COMPRAR/ACTIVAR WICKED";
+"LICENSE_STATUS" = "Estado: ";
+"DONE" = "Hecho";
+"COMMUNITY_MSG" = "Grandeza no puede ser replicado.";
