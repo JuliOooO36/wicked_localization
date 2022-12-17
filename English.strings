@@ -1,0 +1,190 @@
+"LICENSE/PURCHASE/DONATE_SECTION" = "license/purchase/donate";
+"PURCHASE_TITLE" = "Click to Purchase/Upgrade License";
+"PURCHASE_TEXT" = "Join the discord and create a ticket in #wicked-purchase for manual verification. Pirating can lead to permanent account/device bans";
+"PURCHASE_NAME" = "Purchase";
+"DONATE_TITLE" = "Click to Donate";
+"DONATE_TEXT" = "We have worked really hard on this tweak, If you guys want this tweak to be up to date and regularly updated, please be sure to donate. It ensures the lifeline of this tweak.";
+"DONATE_NAME" = "Donate";
+
+"TWITTER_TITLE" = "Click to Follow on Twitter";
+"TWITTER_TEXT" = "Keep up with me @HearseDev on twitter.";
+"TWITTER_NAME" = "Follow";
+
+"SAVE/UPLOAD/SEEN_SECTION" = "save/upload/seen";
+"ALTSAVE_TITLE" = "Suppress Save to Camera Roll";
+"ALTSAVE_TEXT" = "Suppress notification for saving media in camera roll from chat. Allows for batch saving. (Works only inside chat)";
+"UPLOADBUTTON_TITLE" = "Upload Button";
+"UPLOADBUTTON_TEXT" = "Show an overlay button to upload media (Requires restart).";
+"IMAGEEDITOR_TITLE" = "Image Editor";
+"IMAGEEDITOR_TEXT" = "Built in image editor when uploading images.";
+"SAVEBUTTON_TITLE" = "Save Button";
+"SAVEBUTTON_TEXT" = "Show an overlay button to save media.";
+"SAVEINFOLDER_TITLE" = "Save Snaps in Folder";
+"SAVEINFOLDER_TEXT" = "Save snaps in a folder organized by usernames instead of gallery.";
+"OPENFILES_TITLE" = "Open Folder";
+"OPENFILES_TEXT" = "Open saved snaps folder";
+"OPENFILES_NAME" = "Open";
+"SEENBUTTONSNAP_TITLE" = "Seen Button For Snaps";
+"SEENBUTTONSNAP_TEXT" = "Show an overlay button to mark snaps as seen.";
+"SEENBUTTONSTORY_TITLE" = "Seen Button For Stories";
+"SEENBUTTONSTORY_TEXT" = "Show an overlay button to mark stories as seen.";
+"CLOSESEEN_TITLE" = "Skip on Seen";
+"CLOSESEEN_TEXT" = "Skip to the next snap when marked as seen. Alternatively, pressing the button again will mark as unseen.";
+"MARKFRIENDS_TITLE" = "Stories Auto-Seen";
+"MARKFRIENDS_TEXT" = "Automatically mark all non-friends stories as seen.";
+
+"AUDIO_SECTION" = "audio";
+"AUDIO_NOTE_TITLE" = "Upload Voice Note";
+"AUDIO_NOTE_TEXT" = "Tap voice note button to upload voice notes.";
+"SAVEAUDIO_TITLE" = "Save Voice Note";
+"SAVEAUDIO_TEXT" = "Hold audio message to save in files";
+
+"CHAT_SECTION" = "chat";
+"AUTOSAVECHAT_TITLE" = "Auto Save Chat";
+"AUTOSAVECHAT_TEXT" = "Automatically save all chats/media.";
+"AUTOSAVECHAT+SNAP_TITLE" = "Auto Save Snaps";
+"AUTOSAVECHAT+SNAP_TEXT" = "Automatically save all snaps in chat. (Requires Auto Save Chat to be enabled)";
+"CHATGHOST_TITLE" = "Chat Ghost";
+"CHATGHOST_TEXT" = "Open chat without marking messages as seen. Bitmoji presence is also disabled when this option is on";
+"WICKED.DELETIONS.MASTER_TITLE" = "Ignore Deleted Chats";
+"WICKED.DELETIONS.MASTER_TEXT" = "Stop chats from being deleted";
+"WICKED.DELETIONS.COLOR_TITLE" = "Deleted Chat Color";
+"WICKED.DELETIONS.COLOR_TEXT" = "Color for deleted chats";
+"TYPING_TITLE" = "Suppress Typing Notification";
+"TYPING_TEXT" = "Suppress typing notification when typing in chat.";
+"BITMOJISPOOF_TITLE" = "No Bitmoji Presence";
+"BITMOJISPOOF_TEXT" = "Do not show bitmoji presence in chat.";
+"CELLSWIPE_TITLE" = "Chat Swipe";
+"CELLSWIPE_TEXT" = "Swipe on any part of the chat to open it.";
+
+"RECORDING/SCREENSHOTS_SECTION" = "recording/screenshots";
+"SCREENSHOTCONFIRM_TITLE" = "Screenshot Confirm";
+"SCREENSHOTCONFIRM_TEXT" = "Show a confirmation dialog for sending screenshots notification.";
+"SCREENRECORD_TITLE" = "Screen Record Supression";
+"SCREENRECORD_TEXT" = "Suppress screen recording notifications.";
+"SCREENSHOT_TITLE" = "Screenshot Supression";
+"SCREENSHOT_TEXT" = "Suppress screenshot notifications. (Requires restart)";
+"SCREENSHOTBTN_TITLE" = "Screenshot Button";
+"SCREENSHOTBTN_TEXT" = "Show an overlay button to send screenshot notification.";
+
+"SPOOF_SECTION" = "spoof";
+"SPOOFADDED_TITLE" = "Spoof Added By Search";
+"SPOOFADDED_TEXT" = "When adding people in search, it will instead show up as Added by Quick Add.";
+"LOCATION_TITLE" = "Spoof Location";
+"LOCATION_TEXT" = "Use the location selector below to change location.";
+"PICKLOCATION_TITLE" = "Pick Location";
+"PICKLOCATION_TEXT" = "Choose the location from the map (Requires enabling Spoof Location).";
+"PICKLOCATION_NAME" = "Pick";
+"TELEPORT_TITLE" = "Teleport to Friends";
+"TELEPORT_TEXT" = "Tap a friend on the SnapMap to teleport to them.";
+"SPOOFVIEWS_TITLE" = "Spoof Story Views";
+"SPOOFVIEWS_TEXT" = "Enter a number to spoof story views (Leave blank to disable).";
+"SPOOFSC_TITLE" = "Spoof Story Screenshots";
+"SPOOFSC_TEXT" = "Enter a number to spoof story screenshots (Leave blank to disable).";
+
+"WICKED INTERFACE_SECTION" = "wicked interface";
+"HIDEICONS_TITLE" = "Disable Icons";
+"HIDEICONS_TEXT" = "Disable custom account/settings icon to hide presence of wicked (Requires restart).";
+"BUTTONSIZE_TITLE" = "Button Size";
+"BUTTONSIZE_TEXT" = "Size of all buttons.";
+"LOCKBUTTONS_TITLE" = "Lock Buttons";
+"LOCKBUTTONS_TEXT" = "Lock the position of the buttons and disable movement.";
+"RESETLAYOUT_TITLE" = "Reset Button Layout";
+"RESETLAYOUT_TEXT" = "Restore button positions to default configuration.";
+"RESETLAYOUT_NAME" = "Reset";
+"BUTTONCOLOR_TITLE" = "Button Color";
+"BUTTONCOLOR_TEXT" = "Change color of all wicked buttons.";
+"BUTTONSHADOWCOLOR_TITLE" = "Button Shadow Color";
+"BUTTONSHADOWCOLOR_TEXT" = "Change shadow color of all wicked buttons.";
+
+"SNAPCHAT INTERFACE_SECTION" = "snapchat interface";
+"ICONSWAP_TITLE" = "Change Icon";
+"ICONSWAP_TEXT" = "Change app icon.";
+"ICONSWAP_NAME" = "Pick";
+"HIDENEWCHAT_TITLE" = "Hide New Chat Button";
+"HIDENEWCHAT_TEXT" = "Hide the blue button on the bottom on recent UI versions.";
+"NOMAPSWIPING_TITLE" = "No Map Swipe";
+"NOMAPSWIPING_TEXT" = "Disable swiping to SnapMap.";
+"OPENURL_TITLE" = "Open Link Default";
+"OPENURL_TEXT" = "Open links in chat using safari.";
+"HIDECALL_TITLE" = "Hide Call Buttons";
+"HIDECALL_TEXT" = "Hide the call buttons in chat.";
+"DISCOVER_TITLE" = "Hide Discover";
+"DISCOVER_TEXT" = "Removes the Discover stories section.";
+"QUICKADD_TITLE" = "Hide Quick Add";
+"QUICKADD_TEXT" = "Removes the Quick Add section from the chat page.";
+"LOOPING_TITLE" = "Loop Media";
+"LOOPING_TEXT" = "Content will loop rather than skip to the next.";
+
+"MISC_SECTION" = "misc";
+"CALLCONFIRM_TITLE" = "Confirm Calls";
+"CALLCONFIRM_TEXT" = "Show a confirmation dialog before making calls.";
+"SHOWBANNERS_TITLE" = "Show Banners";
+"SHOWBANNERS_TEXT" = "Enable banners notifications for some interactions (saving, marking as seen).";
+"SAVEHAX_TITLE" = "Keep Sent Snaps";
+"SAVEHAX_TEXT" = "Sent snaps will be shown only in your side of the chat, so you may know what snaps you've sent.";
+
+"EXPERIMENTS (NO SUPPORT)_SECTION" = "experiments (No support)";
+"SCSPAM_TITLE" = "Spam Screenshots";
+"SCSPAM_TEXT" = "Spam 100 screenshots in chat (camera button in input bar to toggle)";
+"NOMOJI_TITLE" = "No Bitmojis";
+"NOMOJI_TEXT" = "Do not render bitmojis";
+"NOADS_TITLE" = "Disable Ads";
+"NOADS_TEXT" = "Block all Snapchat advertisements.";
+"SCTESTING_TITLE" = "Enable Experiments";
+"SCTESTING_TEXT" = "Enable all snapchat experiments (like UI stuff)";
+"WICKED.SPOOFING.SCRAMBLE_TITLE" = "Randomize Best Friends";
+"WICKED.SPOOFING.SCRAMBLE_TEXT" = "Randomly change the order of the best friends list.";
+"FRIENDMOJI_TITLE" = "Hide Friendmoji";
+"FRIENDMOJI_TEXT" = "Hide the friendmojis in chat page (Not Bitmoji. Requires pull to refresh).";
+"NOTISPOOF_TITLE" = "Spoof Badge";
+"NOTISPOOF_TEXT" = "Enter a number to spoof the application badge number. Exit app to see changes, if you have snapchat in background, it will not work, you need to exit the app each time you want to spoof the badge count. (Leave blank to disable).";
+
+"ACTIONS_SECTION" = "actions";
+"RESET_TITLE" = "Reset All Wicked Settings";
+"RESET_TEXT" = "Requires closing and opening Snapchat.";
+"RESET_NAME" = "Reset";
+
+"ICON_SELECTION_NAV" = "Icon Selection";
+"LOCATION_PICKER_NAV" = "Location Picker";
+"LOCATION_PICKER_NAV_BTN" = "Save";
+
+"SETTINGS" = "Settings";
+
+"QUICK_BTN_CG_ON" = "ON";
+"QUICK_BTN_CG_OFF" = "OFF";
+"QUICK_BTN_ORIGINAL" = "Chat Options (Original)";
+"QUICK_BTN_LOG_OUT" = "Log out";
+
+"BANNER_SEEN" = "Marking as SEEN";
+
+"CALLCONFIRM_TITLE" = "Call Confirm";
+"CALLCONFIRM_BTN_TEXT" = "Call";
+
+"BACK" = "Back";
+
+"SAVEVN_TITLE" = "Save Voice Note";
+"SAVEVN_YES" = "Save Voice Note";
+"SAVEVN_NO" = "Default";
+
+"UPLOADVN_TITLE" = "Upload Voice Note";
+"UPLOADVN_YES" = "Files";
+"UPLOADVN_NO" = "Gallery";
+
+"BANNER_SAVE" = "Snap Saved!";
+"BANNER_LOCATION" = "Setting saved pin as your location! 📍";
+
+"WARNING_TITLE" = "Warning!";
+"WARNING_TEXT" = "This will reset all settings to default and close the App. Is that okay?";
+
+"SCREENSHOT" = "Screenshot";
+"SC_CONFIRM_YES" = "Suppress";
+
+"LICENSE_PLACEHOLDER" = "Enter License";
+"EMAIL_PLACEHOLDER" = "Enter Email";
+"FETCH_LICENSE" = "Fetch License";
+"LICENSE_INFO" = "The app will exit after trying to authenticate your license. If you are not authenticated, please make sure to type your information correctly.";
+"BUY" = "BUY/ACTIVATE WICKED";
+"LICENSE_STATUS" = "Status: ";
+"DONE" = "Done";
+"COMMUNITY_MSG" = "Greatness cannot be replicated.";
